@@ -6,19 +6,7 @@
   "status": "active",
   "id": "0xAc0C99e3bf4e1E752A15C12b5E4c1200B4a3c284",
   "logo": "https://raw.githubusercontent.com/karma1massons/assets/master/blockchains/smartchain/assets/0xAc0C99e3bf4e1E752A15C12b5E4c1200B4a3c284/logo.png",
-  "description": "AuraFarmingBoatKid (AFBK) — AuraFarmingBoatKid (AFBK) is a BEP-20 token engineered for decentralized ecosystems with a strong focus on sustainable farming, liquidity incentives, and gamified reward mechanisms.
-
-Built on the Binance Smart Chain, AFBK is fully compatible with DeFi protocols and DEX infrastructure, enabling seamless integration into farming pools, staking platforms, and decentralized exchanges.
-
-The token is designed to support real-time utility through a dual-layer farming engine and smart contract architecture that ensures capital efficiency and low gas interaction.
-
-Key Features:
-• Sustainable tokenomics with emission control
-• LP staking and yield farming
-• Modular governance compatibility (DAO-ready)
-• Designed for Web3 wallets, DApps, and aggregator platforms
-
-AFBK is not just a token — it’s an infrastructure element for building scalable and community-driven DeFi applications.",
+  "description": "AuraFarmingBoatKid (AFBK) is a BEP-20 token for decentralized yield farming and DAO-ready governance.",
   "links": [
     {
       "name": "GitHub",
@@ -29,12 +17,8 @@ AFBK is not just a token — it’s an infrastructure element for building scala
       "url": "https://twitter.com/your_project_here"
     },
     {
-      "name": "Telegram",
-      "url": "https://t.me/your_project_here"
-    },
-    {
       "name": "Website",
-      "url": "https://aurafarmingboatkid.io"
+      "url": "https://example.com"
     }
   ]
 }
