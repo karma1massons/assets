@@ -1,0 +1,18 @@
+{
+  "name": "AuraFarmingBoatKid",
+  "symbol": "AFBK",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xAc0C99e3bf4e1E752A15C12b5E4c1200B4a3c284",
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://example.com"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/karma1massons"
+    }
+  ]
+}
